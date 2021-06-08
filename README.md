@@ -1,11 +1,16 @@
 # NLP
 Practising NLP topics such as
+<ul>
 <li>
-1. POS Tagging
-  
-2. Text Classification
-
-3. Semantics and Sentiment Analysis
-
- 4. Topic Modeling
+POS Tagging
 </li>
+<li>
+Text Classification
+</li>
+<li>
+Semantics and Sentiment Analysis
+</li>
+<li>
+Topic Modeling
+</li>
+</ul>
