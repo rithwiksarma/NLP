@@ -12,5 +12,9 @@ Semantics and Sentiment Analysis
 </li>
 <li>
 Topic Modeling
+ <ul>
+   <li> Latent Dirichlet Allocation </li>
+   <li> Non-negative Matrix Factorization </li>
+  </ul>
 </li>
 </ul>
